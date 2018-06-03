@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    background-color: antiquewhite;
+    color: blue;
+    font-family: garamond;
+    padding: 30px;
+    font-size: 56px;
+    border: blue solid 2px;
+
+}
+p {
+    /* margin-left: 400px; */
+    padding:30px;
+    font: garamond;
+    font-size: 24px;
+
+}
+div {
+    /* margin-left: 400px; */
+    padding:30px;
+    font: garamond;
+    font-size: 24px;
+}
+body {
+    background-image: url('../images/light-live-background-css.jpg')
+}
